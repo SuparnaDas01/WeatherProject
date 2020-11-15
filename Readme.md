@@ -11,20 +11,20 @@
 <h2>Commands</h2>
 * python -m venv myenv
 <br/>
-    + myenv\Scripts\activate.bat
+    * myenv\Scripts\activate.bat
     <br/>
-    + pip install django
+    * pip install django
     <br/>
-    + pip freeze
+    * pip freeze
     <br/>
-    + django-admin startproject weather
+    * django-admin startproject weather
     <br/>
-    + python manage.py runserver
+    * python manage.py runserver
     <br/>
-    + python manage.py migrate
+    * python manage.py migrate
     <br/>
-    + python manage.py createsuperuser
+    * python manage.py createsuperuser
     <br/>
-    + python manage.py startapp lookup
+    * python manage.py startapp lookup
     <br/>
 
